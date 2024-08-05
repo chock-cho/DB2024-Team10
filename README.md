@@ -4,11 +4,11 @@
 
 
 ## 시연 영상
-<center>
-    
-[![Video Label](http://img.youtube.com/vi/gOPyHGPMgPA/0.jpg)](https://youtu.be/'유튜브주소의id')
 
-</center>
+
+https://github.com/user-attachments/assets/f4261b33-c72b-4543-a87d-8814f4d9cf68
+
+
 
 ## 프로젝트 구조
 ```bash
